@@ -26,7 +26,7 @@ Finally the `convertToDFA` converts the NFA to a DFA machine. The algorithm is a
 
 The picture depics an NFA (left) and the resulting DFA (right)
 <br>
-<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/nfa-dfa.png?raw=true" alt="img" width="300"/>
+<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/nfa-dfa.png?raw=true" alt="img" width="400"/>
 <br>
 
 ## How to use
